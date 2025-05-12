@@ -1,0 +1,7 @@
+version: "2"
+
+# Running on default configs.
+run:
+  enabled: true
+  timeout: 5m
+  modules-download-mode: readonly
